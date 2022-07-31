@@ -85,7 +85,7 @@ Leadership and Service
 * Tri-Institutional Journal Club, 2014 - 2022
   * Founder and Organizer
 
-Publications
+Key Publications (see PDF for complete list)
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
